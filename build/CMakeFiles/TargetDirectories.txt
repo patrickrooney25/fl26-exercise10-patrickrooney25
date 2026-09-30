@@ -1,0 +1,5 @@
+/workspace/build/CMakeFiles/widget_events.dir
+/workspace/build/CMakeFiles/edit_cache.dir
+/workspace/build/CMakeFiles/rebuild_cache.dir
+/workspace/build/CMakeFiles/widget_events_autogen_timestamp_deps.dir
+/workspace/build/CMakeFiles/widget_events_autogen.dir
